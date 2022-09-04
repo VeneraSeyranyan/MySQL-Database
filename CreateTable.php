@@ -1,4 +1,4 @@
-<?php
+<?php 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
 $servername = "localhost";
 $username = "root";
 $password = "Pass123!@#";
